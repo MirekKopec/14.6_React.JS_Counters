@@ -1,0 +1,21 @@
+ @import url(https://fonts.googleapis.com/css?family=Raleway:300|Lato&subset=latin,latin-ext);
+
+
+body {
+	font-family: 'Lato';
+	background-color: #53AEB7;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+button {
+	color: #ccc;
+	height: 40px;
+	background-color: #0F565D;
+	font-family: 'Lato';
+	font-size: 1em;
+	border-color: rgba(83, 174, 183, 0.8);
+	outline-color: rgb(83, 174, 183);
+}
